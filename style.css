@@ -1,8 +1,14 @@
-body  {background: blue;
- 
+body {background: skyblue;
 }
 h1{color: white;
+   background: yellowgreen;
+   text-shadow: 2px 8px rebeccapurple;
+    text-indent: 56px;
 }
-p { color:red;
-       font-size: 15pt;
+p { color:red; background: grey;
+     font-size: 15pt;
+     text-indent: 58px;
+}
+h2 {text-indent: 100px;
+    background: red;
 }
